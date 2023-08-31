@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64dad5d52d23f2947af481f5"
+  },
+  "videoTitle": "Hp Murah",
+  "videoUrl": "https://www.youtube.com/watch?v=9hOBheCs0IA",
+  "thumbnailUrl": "https://drive.google.com/file/d/1kMDhm3iRL3mKy0gUgSdCwOyBD-3oM27U/view?usp=sharing",
+  "shop_name": "Shop A"
+},
+{
+  "_id": {
+    "$oid": "64dad5d52d23f2947af481f6"
+  },
+  "videoTitle": "Laptop Murah",
+  "videoUrl": "https://www.youtube.com/watch?v=gp8JOmHEfos",
+  "thumbnailUrl": "https://drive.google.com/file/d/16Jd7T4xoGzaCk7_c8xw4hW8qu8N0Fmu4/view?usp=sharing",
+  "shop_name": "Shop B"
+},
+{
+  "_id": {
+    "$oid": "64dad5d52d23f2947af481f7"
+  },
+  "videoTitle": "Tablet Canggih",
+  "videoUrl": "https://www.youtube.com/watch?v=q32mn4ls6Co",
+  "thumbnailUrl": "https://drive.google.com/file/d/1lHGJ_BPk_JZYeBg2HkhC2h6DKEx_Sgt1/view?usp=sharing",
+  "shop_name": "Shop C"
+}]

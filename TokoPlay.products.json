@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a77286"
+  },
+  "videoId": "video1",
+  "nameProduct": "HP A",
+  "price": "2.000.000",
+  "thumbnailUrl": "https://drive.google.com/file/d/1Jc4A-xMBDE2G988XOH6v9GQXYjrxm4W5/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/warpab/hp-samsung-galaxy-a13-4-128-gb-samsung-a-13-ram-4gb-rom-128gb-resmi-biru?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+},
+{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a77287"
+  },
+  "videoId": "video1",
+  "nameProduct": "HP B",
+  "price": "2.500.000",
+  "thumbnailUrl": "https://drive.google.com/file/d/1FWYy7PVpw2igZ0tMsMXvzTMNdIgaFJbJ/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/dianabyakta/samsung-galaxy-m33-5g-8-128gb-garansi-resmi?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+},
+{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a77288"
+  },
+  "videoId": "video2",
+  "nameProduct": "Laptop A",
+  "price": "8.500.000",
+  "thumbnailUrl": "https://drive.google.com/file/d/10s5_AZh9AxQBi5yJl4KcKRqagDbzwVW7/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/askcom/laptop-asus-vivobook-m415ua-ryzen-5-5500-16gb-512ssd-win10-14-0-fhd-16gb-512ssd-non-paket?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+},
+{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a77289"
+  },
+  "videoId": "video2",
+  "nameProduct": "Laptop B",
+  "price": "6.000.000",
+  "thumbnailUrl": "https://drive.google.com/file/d/1-pwFUaD4mh3Uuc7uXmJLf2dIRDPkQDGv/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/advanstore/advan-laptop-workplus-amd-ryzen-5-6600h-14-fhd-ips-16gb-512gb-win-11"
+},
+{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a7728a"
+  },
+  "videoId": "video3",
+  "nameProduct": "Tablet A",
+  "price": "6.500.00",
+  "thumbnailUrl": "https://drive.google.com/file/d/1LqIjevDnNaPOEOnibEnsi5WgHHJ7fMhn/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/samsung/samsung-galaxy-tab-s6-lite-snapdragon-4gb-128gb-gray"
+},
+{
+  "_id": {
+    "$oid": "64dc8f4878e0031478a7728b"
+  },
+  "videoId": "video3",
+  "nameProduct": "Tablet B",
+  "price": "1.550.000",
+  "thumbnailUrl": "https://drive.google.com/file/d/1VvuNkrvQ5PSe91lxgnkI8jovLNq6KyXr/view?usp=drive_link",
+  "productUrl": "https://www.tokopedia.com/tukiyah/tablet-pc-asli-baru-galaxy-tab-s8-s8-12gb-512gb-tablet?utm_source=google&utm_medium=organic&utm_campaign=pdp-seo"
+}]
